@@ -1,3 +1,7 @@
 # NAME: China
 # AUTHOR: 7hree
 DOMAIN-KEYWORD,wlan.jsyd139.com
+PROCESS-NAME,baidunetdisk
+PROCESS-NAME,Autoupdate.exe
+PROCESS-NAME,baidunetdisk.exe
+PROCESS-NAME,baidunetdiskhost.exe
