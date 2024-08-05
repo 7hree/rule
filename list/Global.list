@@ -12,3 +12,4 @@ DOMAIN-KEYWORD,toxpath.org
 DOMAIN-KEYWORD,davisthompsonfoundation.org
 DOMAIN-KEYWORD,nodeseek.com
 DOMAIN-KEYWORD,nature.com
+IP-CIDR, 46.3.106.43/24,no-resolve
