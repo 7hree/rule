@@ -229,12 +229,12 @@ DOMAIN-SUFFIX,prd.api.discomax.com
 DOMAIN-SUFFIX,media.max.com
 DOMAIN-SUFFIX,prd.api.max.com
 DOMAIN-SUFFIX,max.com
-user-agent, HBOAsia*, Max
-host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Max
-host-wildcard, hboasia*-i.akamaihd.net, Max
-host-suffix, s3-ap-southeast-1.amazonaws.com, Max
-host-suffix, max.com, Max
-host-suffix, discomax.com, Max
+USER-AGENT, HBOAsia*, Max
+HOST, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Max
+HOST-WILDCARD, hboasia*-i.akamaihd.net, Max
+HOST-SUFFIX, s3-ap-southeast-1.amazonaws.com, Max
+HOST-SUFFIX, max.com, Max
+HOST-SUFFIX, discomax.com, Max
 # Primevideo
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
