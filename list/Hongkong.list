@@ -1,7 +1,5 @@
 # NAME: Hongkong
 # AUTHOR: 7hree
-# Nodeseek
-DOMAIN-SUFFIX,nodeseek.com
 # Emby
 DOMAIN-SUFFIX,emby1.103333.xyz
 DOMAIN-SUFFIX,emby2.103333.xyz
@@ -23,44 +21,6 @@ DOMAIN-SUFFIX,789.123456.al
 DOMAIN-SUFFIX,pub1.emby.wtf
 DOMAIN-SUFFIX,pub2.emby.wtf
 DOMAIN-SUFFIX,pub3.emby.wtf
-# Gitlab
-DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,gitlab-static.net
-DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,gitlab.net
-DOMAIN-SUFFIX,gitter-static.net
-DOMAIN-SUFFIX,gitter.im
-# Github
-DOMAIN-SUFFIX,atom.io
-DOMAIN-SUFFIX,dependabot.com
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
-DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.community
-DOMAIN-SUFFIX,github.dev
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubhackathon.com
-DOMAIN-SUFFIX,githubnext.com
-DOMAIN-SUFFIX,githubpreview.dev
-DOMAIN-SUFFIX,githubstatus.com
-DOMAIN-SUFFIX,githubuniverse.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,myoctocat.com
-DOMAIN-SUFFIX,npm.community
-DOMAIN-SUFFIX,npmjs.com
-DOMAIN-SUFFIX,npmjs.org
-DOMAIN-SUFFIX,opensource.guide
-DOMAIN-SUFFIX,rawgit.com
-DOMAIN-SUFFIX,rawgithub.com
-DOMAIN-SUFFIX,repo.new
-DOMAIN-SUFFIX,thegithubshop.com
-DOMAIN-KEYWORD,github
 # Spotify
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -93,72 +53,103 @@ IP-CIDR,104.154.127.126/32
 IP-CIDR,35.186.224.47/32
 USER-AGENT,Spotify*
 PROCESS-NAME,com.spotify.music
-# WiKi
-DOMAIN-SUFFIX,mediawiki.org
-DOMAIN-SUFFIX,wikibooks.org
-DOMAIN-SUFFIX,wikidata.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,wikisource.org
-DOMAIN-SUFFIX,wikiversity.org
-DOMAIN-SUFFIX,wikivoyage.org
-DOMAIN-SUFFIX,wiktionary.org
-# Twitch
-DOMAIN-SUFFIX,ext-twitch.tv
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,live-video.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch-ext.rootonline.de
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,twitchsvc.net
-DOMAIN-KEYWORD,ttvnw
-IP-CIDR,103.53.48.0/23
-IP-CIDR,185.42.204.0/22
-IP-CIDR,192.108.239.0/24
-IP-CIDR,192.16.64.0/21
-IP-CIDR,199.9.248.0/21
-IP-CIDR,23.160.0.0/24
-IP-CIDR,45.113.128.0/22
-IP-CIDR,52.223.192.0/20
-IP-CIDR,52.223.208.0/21
-IP-CIDR,52.223.224.0/19
-IP-CIDR,99.181.64.0/18
-IP-CIDR6,2402:2a80::/32
-PROCESS-NAME,tv.twitch.android.app
-# TikTok
-DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,bytegecko-i18n.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,capcut.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,isnssdk.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokd.net
-DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,tiktokmusic.app
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokv.us
-DOMAIN-SUFFIX,ttwebview.com
-DOMAIN-KEYWORD,musical.ly
-DOMAIN-KEYWORD,tiktok
-USER-AGENT,TikTok*
-PROCESS-NAME,com.zhiliaoapp.musically
+# Telegram
+# SukkaW
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,t.me
+IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/21,no-resolve
+IP-CIDR,91.108.16.0/21,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,95.161.64.0/20,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
+IP-CIDR6,2001:b28:f23d::/48,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/48,no-resolve
+IP-CIDR6,2a0a:f280::/32,no-resolve
+IP-ASN,62041
+IP-ASN,62014
+IP-ASN,59930
+IP-ASN,44907
+IP-ASN,211157
+# Getsomefries
+PROCESS-NAME,org.telegram.messenger
+DOMAIN-SUFFIX,comments.app // @CommentsBot
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph // Telegraph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,telesco.pe // Telescope
+IP-CIDR,109.239.140.0/24,no-resolve // Telegram Messenger LLP
+IP-CIDR,5.28.192.0/18,no-resolve // IPFFM - Internet Provider Frankfurt GmbH
+IP-CIDR6,2a0a:f280::/32,no-resolve
+IP-ASN,44907,no-resolve // Telegram Messenger Inc
+IP-ASN,62014,no-resolve // Telegram Messenger Inc
+IP-ASN,62041,no-resolve // Telegram Messenger Inc
+IP-ASN,59930,no-resolve // Telegram Messenger Inc
+IP-ASN,211157,no-resolve // Telegram Messenger Inc
+#Bladkmatrix7
+DOMAIN,api.imem.app
+DOMAIN,api.swiftgram.app
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,mbrx.app
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telegramdownload.com
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev
+DOMAIN-KEYWORD,nicegram
+IP-CIDR,109.239.140.0/24
+IP-CIDR,149.154.160.0/20
+IP-CIDR,5.28.192.0/18
+IP-CIDR,91.108.0.0/16
+IP-CIDR6,2001:67c:4e8::/48
+IP-CIDR6,2001:b28:f23c::/47
+IP-CIDR6,2001:b28:f23f::/48
+IP-CIDR6,2a0a:f280::/29
+IP-ASN,211157
+IP-ASN,44907
+IP-ASN,59930
+IP-ASN,62014
+IP-ASN,62041
+PROCESS-NAME,nekox.messenger
+PROCESS-NAME,org.telegram.messenger
 # Netflix
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
