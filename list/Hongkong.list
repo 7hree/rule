@@ -2,13 +2,6 @@
 # AUTHOR: 7hree
 #Global
 DOMAIN-KEYWORD,18comic
-DOMAIN-KEYWORD,t0319
-DOMAIN-KEYWORD,f0225
-DOMAIN-KEYWORD,killcovid2021
-DOMAIN-KEYWORD,mushroomtrack
-DOMAIN-KEYWORD,singlelogin.se
-DOMAIN-KEYWORD,zh.1lib.sk
-DOMAIN-KEYWORD,zh.zlibrary-china.se
 DOMAIN-KEYWORD,toxpath.org
 DOMAIN-KEYWORD,davisthompsonfoundation.org
 DOMAIN-KEYWORD,nodeseek.com
@@ -18,6 +11,7 @@ DOMAIN-KEYWORD,nodeseek.com
 DOMAIN-KEYWORD,hostloc.com
 DOMAIN-KEYWORD,lowendtalk.com
 DOMAIN-KEYWORD,1password.com
+DOMAIN-KEYWORD,z-library.sk
 # Emby
 DOMAIN-SUFFIX,emby1.103333.xyz
 DOMAIN-SUFFIX,emby2.103333.xyz
