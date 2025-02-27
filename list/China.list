@@ -1,6 +1,7 @@
 # NAME: China
 # AUTHOR: 7hree
 DOMAIN-SUFFIX,rayrayray.asuscomm.com
+IP-CIDR,154.17.226.164/32
 # Apple
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
