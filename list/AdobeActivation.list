@@ -1,5 +1,6 @@
 # NAME: AdobeActivation
 # AUTHOR: 7hree
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AdobeActivation/AdobeActivation_Resolve.list
 DOMAIN,1b9khekel6.adobe.io
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
