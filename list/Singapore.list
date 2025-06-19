@@ -1,6 +1,7 @@
 # NAME: Singapore
 # AUTHOR: 7hree
 # TikTok
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TikTok/TikTok.list
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
@@ -31,6 +32,7 @@ DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
 PROCESS-NAME,com.zhiliaoapp.musically
 # Disney
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Disney/Disney.list
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -206,7 +208,7 @@ USER-AGENT,Disney+*
 PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
 PROCESS-NAME,com.disney.disneyplus
 # MAX
-DOMAIN,wmff.warnermediacdn.com
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HBO/HBO.list
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,cinemax.com
@@ -243,6 +245,7 @@ DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbounify-prod.evergent.com
 DOMAIN-SUFFIX,manifest.prod.boltdns.net
+DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,now-ashare.com
 DOMAIN-SUFFIX,now-tv.com
@@ -251,16 +254,70 @@ DOMAIN-SUFFIX,now.com.hk
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
+DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,youboranqs01.com
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
 PROCESS-NAME,com.hbo.hbonow
-DOMAIN-SUFFIX,prd.api.discomax.com
-DOMAIN-SUFFIX,media.max.com
-DOMAIN-SUFFIX,prd.api.max.com
-DOMAIN-SUFFIX,max.com
-USER-AGENT, HBOAsia*, Max
+DOMAIN,default.any-amer.prd.api.max.com
+DOMAIN,play.max.com
+DOMAIN,default.any-any.prd.api.max.com
+DOMAIN,telegraph.prd.api.max.com
+DOMAIN,default.beam-any.prd.api.max.com
+DOMAIN,default.beam-amer.prd.api.max.com
+DOMAIN,default.beam-amer.use.prd.api.max.com
+DOMAIN,events.prd.api.max.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,cinemax.com
+DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,execute-api.us-east-1.amazonaws.com
+DOMAIN,forthethrone.com
+DOMAIN,hbo.com
+DOMAIN,hbo.com.c.footprint.net
+DOMAIN,hbo.com.edgesuite.net
+DOMAIN,hbo.map.fastly.net
+DOMAIN,hboasia.com
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,hboasialive.akamaized.net
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbomax.com
+DOMAIN,hbomaxcdn.com
+DOMAIN,hbomaxdash.s.llnwi.net
+DOMAIN,hbonow.com
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN,hbo.com
+DOMAIN,hbo.com.c.footprint.net
+DOMAIN,hbo.com.edgesuite.net
+DOMAIN,hbo.map.fastly.net
+DOMAIN,hbogo.co.th
+DOMAIN,hbogo.com
+DOMAIN,hbogo.eu
+DOMAIN,hbogoasia.com
+DOMAIN,hbogoasia.hk
+DOMAIN,hbogoasia.id
+DOMAIN,hbogoasia.ph
+DOMAIN,hbogoasia.sg
+DOMAIN,manifest.prod.boltdns.net
+DOMAIN,max.com
+DOMAIN,maxgo.com
+DOMAIN,now-ashare.com
+DOMAIN,now-tv.com
+DOMAIN,now.com
+DOMAIN,now.com.hk
+DOMAIN,nowe.com
+DOMAIN,nowe.hk
+DOMAIN,players.brightcove.net
+DOMAIN,warnermediacdn.com
+DOMAIN,youboranqs01.com
 # Primevideo
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/PrimeVideo/PrimeVideo.list
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
