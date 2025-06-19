@@ -1,6 +1,7 @@
 # NAME: Japan
 # AUTHOR: 7hree
 # Abema
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Abema/Abema.list
 DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,winticket.jp
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AbemaTV/AbemaTV.list
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -46,6 +48,7 @@ DOMAIN-SUFFIX,winticket.jp
 DOMAIN-KEYWORD,abematv.akamaized.net
 USER-AGENT,AbemaTV*
 # Nintendo
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Nintendo/Nintendo_Resolve.list
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,amiibo.com
@@ -174,6 +177,7 @@ DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,yoshisnewisland.com
 IP-CIDR,35.192.0.0/12
 # Playstation
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/PlayStation/PlayStation.list
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
