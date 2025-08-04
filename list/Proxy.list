@@ -12,7 +12,7 @@ DOMAIN-KEYWORD,hostloc.com
 DOMAIN-KEYWORD,lowendtalk.com
 DOMAIN-KEYWORD,1password.com
 DOMAIN-KEYWORD,z-library.sk
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
