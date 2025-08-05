@@ -2658,7 +2658,6 @@ PROCESS-NAME,tv.twitch.android.app
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
-PROCESS-NAME,com.hktve.viutv
 # https://ruleset.skk.moe/List/ip/stream.conf
 IP-CIDR,23.246.18.0/23,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
