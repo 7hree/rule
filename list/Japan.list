@@ -1,7 +1,7 @@
 # NAME: Japan
 # AUTHOR: 7hree
 # Abema
-# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Abema/Abema.list
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Abema/Abema.list
 DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,winticket.jp
-# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AbemaTV/AbemaTV.list
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/AbemaTV/AbemaTV.list
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,winticket.jp
 DOMAIN-KEYWORD,abematv.akamaized.net
 USER-AGENT,AbemaTV*
 # Nintendo
-# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Nintendo/Nintendo_Resolve.list
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Nintendo/Nintendo_Resolve.list
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,amiibo.com
@@ -175,10 +175,39 @@ DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,yoshisnewisland.com
-IP-CIDR,35.192.0.0/12
+IP-CIDR,35.192.0.0/12,no-resolve
 # Playstation
 # https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/PlayStation/PlayStation.list
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# https://ruleset.skk.moe/List/non_ip/stream_jp.conf
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN-SUFFIX,hayabusa.dev
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,amebaowndme.com
+DOMAIN-SUFFIX,amebaownd.com
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,amebame.com
+DOMAIN-SUFFIX,socdm.com
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,dokusho-ojikan.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,winticket.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,ameblo.jp
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,location-plus.nhk.jp
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,abema.io
+USER-AGENT,AbemaTV*
+USER-AGENT,Niconico*
+
