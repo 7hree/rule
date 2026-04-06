@@ -1,6 +1,7 @@
 # NAME: America
 # AUTHOR: 7hree
 # Scholar
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/GlobalScholar/GlobalScholar.list
 DOMAIN,scholar.google.com
 DOMAIN-SUFFIX,1lib.cloud
 DOMAIN-SUFFIX,1lib.domains
