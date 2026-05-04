@@ -1,7 +1,8 @@
 # NAME: Proxy
 # AUTHOR: 7hree
 # Global
-DOMAIN-KEYWORD,18comic
+DOMAIN-KEYWORD,18comic.vip
+DOMAIN-KEYWORD,18comic.org
 DOMAIN-KEYWORD,toxpath.org
 DOMAIN-KEYWORD,davisthompsonfoundation.org
 DOMAIN-KEYWORD,nodeseek.com
@@ -13,6 +14,17 @@ DOMAIN-KEYWORD,lowendtalk.com
 DOMAIN-KEYWORD,z-library.sk
 DOMAIN-KEYWORD,sagepub.com
 DOMAIN-KEYWORD,csdn.net
+DOMAIN-KEYWORD,z-lib.sk
+DOMAIN-KEYWORD,sci-hub.ru
+DOMAIN-KEYWORD,sci-hub.su
+DOMAIN-KEYWORD,sci-hub.st
+DOMAIN-KEYWORD,sci-hub.red
+DOMAIN-KEYWORD,sci-hub.box
+DOMAIN-KEYWORD,hgeme.com
+DOMAIN-KEYWORD,t66y.com
+DOMAIN-KEYWORD,fda.gov
+DOMAIN-KEYWORD,ncbi.nlm.nih.gov
+DOMAIN-KEYWORD,oecd.org
 # Emby
 DOMAIN-SUFFIX,pub1.emby.wtf
 DOMAIN-SUFFIX,pub2.emby.wtf
