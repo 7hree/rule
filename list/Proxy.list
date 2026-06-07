@@ -25,10 +25,6 @@ DOMAIN-KEYWORD,t66y.com
 DOMAIN-KEYWORD,fda.gov
 DOMAIN-KEYWORD,ncbi.nlm.nih.gov
 DOMAIN-KEYWORD,oecd.org
-# Emby
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
 # steam
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Steam/Steam.list
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
