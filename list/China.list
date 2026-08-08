@@ -1,5 +1,8 @@
 # NAME: China
 # AUTHOR: 7hree
+# Wuxiapptec
+DOMAIN-SUFFIX,wuxiapptec.com
+DOMAIN-SUFFIX,workspaceone.com
 # Lan
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lan/Lan.list
 DOMAIN,asusrouter.com
