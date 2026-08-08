@@ -1,5 +1,6 @@
 # NAME: Proxy
 # AUTHOR: 7hree
+# Global, Steam
 # Global
 DOMAIN-KEYWORD,18comic.vip
 DOMAIN-KEYWORD,18comic.org
@@ -25,7 +26,7 @@ DOMAIN-KEYWORD,t66y.com
 DOMAIN-KEYWORD,fda.gov
 DOMAIN-KEYWORD,ncbi.nlm.nih.gov
 DOMAIN-KEYWORD,oecd.org
-# steam
+# Steam
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Steam/Steam.list
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
