@@ -1,6 +1,6 @@
 # NAME: China
 # AUTHOR: 7hree
-# Apple, BiliBili, ChinaMedia, Download, SteamCN, Lan
+# Apple, BiliBili, ChinaMedia, Download, GameDownloadCN, SteamCN, Lan
 # Wuxiapptec
 DOMAIN-SUFFIX,wuxiapptec.com
 DOMAIN-SUFFIX,workspaceone.com
@@ -2227,6 +2227,24 @@ PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
 PROCESS-NAME,qbittorrent
 PROCESS-NAME,uTorrent
+# GameDownloadCN
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Game/GameDownloadCN/GameDownloadCN.list
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,cdn-qc.content.steamchina.com
+DOMAIN,cdn-ws.content.steamchina.com
+DOMAIN,dl.delivery.mp.microsoft.com
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
+DOMAIN,trts.baishancdnx.cn
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
 # SteamCN
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/SteamCN/SteamCN.list
 DOMAIN,csgo.wmsj.cn
