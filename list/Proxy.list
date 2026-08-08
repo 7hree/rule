@@ -1,6 +1,6 @@
 # NAME: Proxy
 # AUTHOR: 7hree
-# Global, Steam
+# Global, GameDownload, Steam
 # Global
 DOMAIN-KEYWORD,18comic.vip
 DOMAIN-KEYWORD,18comic.org
@@ -26,6 +26,47 @@ DOMAIN-KEYWORD,t66y.com
 DOMAIN-KEYWORD,fda.gov
 DOMAIN-KEYWORD,ncbi.nlm.nih.gov
 DOMAIN-KEYWORD,oecd.org
+# GameDownload
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Game/GameDownload/GameDownload.list
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,blizzard.gcdn.cloudn.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,client.hikarifield.co.jp
+DOMAIN,content.cdp.bethesda.net
+DOMAIN,download.cdp.bethesda.net
+DOMAIN,download.dm.origin.com
+DOMAIN,download.epicgames.com
+DOMAIN,download.hikarifield.co.jp
+DOMAIN,download2.epicgames.com
+DOMAIN,download3.epicgames.com
+DOMAIN,download4.epicgames.com
+DOMAIN,edge.steam-dns.top.comcast.net
+DOMAIN,epicgames-download1.akamaized.net
+DOMAIN,eu.cdn.blizzard.com
+DOMAIN,fastly-download.epicgames.com
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
+DOMAIN,kr.cdn.blizzard.com
+DOMAIN,level3.blizzard.com
+DOMAIN,origin-a.akamaihd.net
+DOMAIN,packagespc.xboxlive.com
+DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN,steam.eca.qtlglb.com
+DOMAIN,steam.naeu.qtlglb.com
+DOMAIN,steam.ru.qtlglb.com
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+DOMAIN,us.cdn.blizzard.com
+DOMAIN,xvcf1.xboxlive.com
+DOMAIN,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,cdn.ubi.com
+DOMAIN-SUFFIX,dyn.riotcdn.net
+DOMAIN-SUFFIX,steamcontent.com
 # Steam
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Steam/Steam.list
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
