@@ -1,6 +1,17 @@
 # NAME: America
 # AUTHOR: 7hree
-# AI, Apple, Google, Microsoft, MicrosoftEdge, Scholar, Spotify, YouTube, YouTubeMusic, WiFiCalling, Paypal
+# AI, Apple, Google, Microsoft, MicrosoftEdge, Siri, Scholar, Spotify, YouTube, YouTubeMusic, WiFiCalling, Paypal
+# Siri
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-cloudcompute.com
+DOMAIN-SUFFIX,apple-ai.com
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-KEYWORD,apple-ml
 # AI
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/OpenAI/OpenAI_Resolve.list
 DOMAIN,browser-intake-datadoghq.com
